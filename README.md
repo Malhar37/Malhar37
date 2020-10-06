@@ -1,6 +1,6 @@
 
 <a href="https://malharportfolio.netlify.app/" target="_blank">
- <img align="center" src="https://github.com/Malhar37/Malhar37/blob/master/intro.png" />
+ <img align="center" src="https://github.com/Malhar37/Malhar37/blob/main/intro.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=your-github-Malhar37&color=blueviolet)
