@@ -14,4 +14,4 @@
 </a>
 
 
-#### 🔗 Know more about me here: [Personal Portfolio](https://malharportfolio.netlify.app)
+#### 🔗 Know more about me here: [Personal Portfolio](https://malhar.live)
